@@ -1,7 +1,11 @@
 @media screen and (max-width:800px){
+    body{
+        background-image: linear-gradient(to right top, #ff848a, #f874a7, #de6fc9, #a977e9, #3183ff);
+    }
     .container{
         height: 50vh;
         width: 75vw;
+        background-image: linear-gradient(to right top, #fbb3cd, #ffb0b1, #ffbb82, #ffd44c, #e5f526);
     }
     input
     {
