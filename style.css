@@ -71,9 +71,9 @@ input{
     display: flex;
 }
 .anotherclass{
-      padding: 1rem; 
-     position: relative; 
-     display: flex;
+    padding: 1rem; 
+    position: relative; 
+    display: flex;
     justify-content: center;
     align-items: center;
     height: 35vh;
